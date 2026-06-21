@@ -1,5 +1,6 @@
 requests
 FreeSimpleGUI
+PySide6
 PyGithub
 pyamiibo
 bitstring==3.1.9
